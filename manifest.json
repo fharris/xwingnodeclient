@@ -1,0 +1,8 @@
+{
+"runtime":{
+"majorVersion":"0.01"
+},
+"command": "node ./bin/www",
+"release": {},
+"notes": "xwing client skeleton foundation"
+}
